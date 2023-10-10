@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "enbbplusplusoffg6.jks",
+            "storePassword": "enbbplusplusg6",
+            "alias": "enbbplusplusoffg6",
+            "password" : "enbbplusplusg6",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "enbbplusplusoffg6.jks",
+            "storePassword": "enbbplusplusg6",
+            "alias": "enbbplusplusoffg6",
+            "password" : "enbbplusplusg6",  
+            "keystoreType": "jks"
+        }
+    }
+}
